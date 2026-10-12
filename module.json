@@ -1,0 +1,15 @@
+{
+  "id": "whitechapel",
+  "title": "白教堂来信 · 五警探与杰克",
+  "description": "修订版基础规则的六人棋盘模组：GM 扮演杰克、五个警探席位、可恢复对局与杰克视角 AI 决策日志。",
+  "version": "0.1.0-dev.1",
+  "url": "https://github.com/litchicalpis/whitechapel",
+  "manifest": "https://raw.githubusercontent.com/litchicalpis/whitechapel/main/module.json",
+  "download": "https://github.com/litchicalpis/whitechapel/releases/download/v0.1.0-dev.1/whitechapel-0.1.0-dev.1.zip",
+  "authors": [{"name": "Whitechapel FVTT Project"}],
+  "compatibility": {"minimum": "12", "maximum": "12"},
+  "esmodules": ["scripts/main.js"],
+  "styles": ["styles/whitechapel.css"],
+  "socket": true,
+  "readme": "README.md"
+}
